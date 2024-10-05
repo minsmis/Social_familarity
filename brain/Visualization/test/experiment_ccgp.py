@@ -1,4 +1,4 @@
-import brain.decoder.ccgp as ccgp
+import brain.Visualization.decoder.ccgp as ccgp
 
 # Paths
 trial_label = [
