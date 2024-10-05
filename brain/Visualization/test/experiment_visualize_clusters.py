@@ -1,4 +1,4 @@
-import brain.visualize.clusters as bv
+import brain.Visualization.visualize.clusters as bv
 
 # Paths
 trial_label = [
