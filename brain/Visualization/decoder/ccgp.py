@@ -13,7 +13,7 @@ import sklearn
 from sklearn import svm  # import sklearn svm package
 from sklearn.preprocessing import StandardScaler
 
-import brain.feature.social as bs
+import brain.Visualization.feature.social as bs
 
 
 class CCGP:
